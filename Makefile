@@ -1,5 +1,3 @@
-include /home/jacco/.make/make.sysdep
-
 # Makefile: Description
 #
 # Copyright:	(c) 2015 Jacco van Schaik (jacco@jaccovanschaik.net)
